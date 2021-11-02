@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Exodous4310
+- 👀 I’m interested in Hacking,programming and learning new stuff
+- 🌱 I’m currently learning Programming
+- 📫 How to reach me you can search dank_exodous or ig_exodous on instagram and on telegram Eodous4310
