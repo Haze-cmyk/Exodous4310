@@ -7,7 +7,7 @@
   <a href="https://instagram.com/dank_exodous">
     <img align="left" alt="Exodous Inatgram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
   </a>
-  <a href="Wrenchacker.blogspot.com">
+  <a href="https://wrenchacker.blogspot.com/">
     <img align="left" alt="Exodous Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
   </a>
 
@@ -20,9 +20,9 @@
 
 
 ### About 🙋🏻‍♂️
-```python
+```Python
 name = "Exodous"
-what_We_Do = ['Developer','Coder','Security Researchers','Ethical Hackers','Indian','Sanatani','Students']
+what_I_Do = ['Developer','Coder','Security Researchers','Ethical Hackers','Indian','Sanatani','Students']
 religion = "Hinduism"
 ```
 
