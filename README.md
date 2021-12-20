@@ -22,7 +22,7 @@
 ### About 🙋🏻‍♂️
 ```Python
 name = "Exodous"
-what_I_Do = ['Developer','Coder','Security Researchers','Ethical Hackers','Indian','Sanatani','Students']
+what_I_Do = ['Developer','Coder','Security Researcher','Ethical Hacker','Indian','Sanatani','Student']
 religion = "Hinduism"
 ```
 
