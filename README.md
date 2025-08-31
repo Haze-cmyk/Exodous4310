@@ -2,4 +2,4 @@
 
 ### Stats ⚡️
 
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=Exodous4310)
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=h4z3-cmyk)
